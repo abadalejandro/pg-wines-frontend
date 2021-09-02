@@ -1,0 +1,6 @@
+.container{   
+    background-color: aquamarine;
+    height: 5rem;    
+    /* display: flex; */
+    /* flex-direction: column;     */
+}

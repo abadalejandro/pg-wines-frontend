@@ -1,0 +1,157 @@
+.container {
+  height: 10rem;
+  background-color: var(--main-navbar-bg-color);
+  color: white;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-image: url("./background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.logo_searchbar_login {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.logo_searchbar_login > a {
+  text-decoration: none;
+  color: white;
+  display: inline-flex;
+  align-items: center;
+}
+
+.cart_login {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.cart_login > span {
+  font-size: 22px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.cart_favorite > img {
+  width: 40px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.cart_favorite {
+  display: flex;
+  justify-content: space-between;
+  width: 110px;
+}
+
+.logo {
+  width: 20px;
+  height: 20px;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+.searchBar {
+  height: 30px;
+  width: 270px;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+  border: none;
+  border-radius: 2px;
+}
+.searchBar::placeholder {
+  padding-left: 10px;
+}
+
+.logo_container {
+  display: flex;
+  width: 200px;
+  font-size: 22px;
+  height: 100%;
+  justify-content: flex-start;
+}
+
+.about_container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 160px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.searchbar_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 315px;
+}
+.searchbar_container > img {
+  width: 30px;
+  height: 25px;
+  cursor: pointer;
+}
+
+@media (max-width: 1150px) {
+  .about_container {
+    width: 150px;
+    font-size: 20px;
+  }
+  .searchbar_container > img {
+    width: 30px;
+    height: 25px;
+  }
+  .searchbar_container {
+    width: 275px;
+  }
+  .searchBar {
+    width: 240px;
+  }
+
+  .cart_login {
+    width: 370px;
+  }
+  .cart_login > span {
+    font-size: 20px;
+    width: 130px;
+  }
+
+  .cart_favorite > img {
+    width: 35px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 1070px) {
+  .about_container {
+    width: 140px;
+    font-size: 19px;
+  }
+  .searchbar_container > img {
+    width: 30px;
+    height: 25px;
+  }
+  .searchbar_container {
+    width: 260px;
+  }
+  .searchBar {
+    width: 220px;
+  }
+
+  .cart_login {
+    width: 360px;
+  }
+  .cart_login > span {
+    font-size: 19px;
+    width: 110px;
+  }
+
+  .cart_favorite > img {
+    width: 35px;
+    height: 30px;
+  }
+}
