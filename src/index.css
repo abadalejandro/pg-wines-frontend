@@ -1,8 +1,3 @@
-:root {
-  --main-bg-color: yellow;
-  --main-navbar-bg-color: rgb(83, 69, 69);
-}
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -16,20 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-h1, p{
-  margin: 0;
-}
-
-/* 
-.container{
-  max-width: 860px;
-  margin: 0 auto;
-}
-
-.card{
-  background-color:blueviolet;
-  border-radius: 5px;
-  padding: 10px 20px 30px;
-  margin-top: 50px;
-} */
