@@ -1,7 +1,0 @@
-.container {
-    background-color: black;
-    background-color: var(--main-navbar-bg-color);
-    color: white;
-    font-weight: bold;
-    height: 3rem;
-}
