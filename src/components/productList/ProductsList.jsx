@@ -34,11 +34,15 @@ function ProductList({state, manageProductState, getFilteredProductsList, getPro
 
     function valueFilter(e){
         console.log(e.target.value)
-    typeof(e.target.value)==='number' && e.target.value>0&&
-    setValues({
-        ...values,
-        [e.target.name]: e.target.value
-    })
+        console.log(typeof(e.target.value)==='number')
+        if (typeof(e.target.value)==='number' && e.target.value>0) {
+            setValues({
+                ...values,
+                [e.target.name]: e.target.value
+            })
+            
+        }
+    // typeof(e.target.value)==='number' && e.target.value>0&&
     }
 
     function handleSubmit(e){
