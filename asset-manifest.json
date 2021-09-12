@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pg-wines-frontend/static/css/main.b5f16e8b.chunk.css",
-    "main.js": "/pg-wines-frontend/static/js/main.9d5ed210.chunk.js",
-    "main.js.map": "/pg-wines-frontend/static/js/main.9d5ed210.chunk.js.map",
+    "main.css": "/pg-wines-frontend/static/css/main.0ff1570e.chunk.css",
+    "main.js": "/pg-wines-frontend/static/js/main.84a59993.chunk.js",
+    "main.js.map": "/pg-wines-frontend/static/js/main.84a59993.chunk.js.map",
     "runtime-main.js": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js",
     "runtime-main.js.map": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js.map",
     "static/css/2.4ce9e501.chunk.css": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css",
-    "static/js/2.48494a89.chunk.js": "/pg-wines-frontend/static/js/2.48494a89.chunk.js",
-    "static/js/2.48494a89.chunk.js.map": "/pg-wines-frontend/static/js/2.48494a89.chunk.js.map",
+    "static/js/2.36c9b512.chunk.js": "/pg-wines-frontend/static/js/2.36c9b512.chunk.js",
+    "static/js/2.36c9b512.chunk.js.map": "/pg-wines-frontend/static/js/2.36c9b512.chunk.js.map",
     "index.html": "/pg-wines-frontend/index.html",
     "static/css/2.4ce9e501.chunk.css.map": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css.map",
-    "static/css/main.b5f16e8b.chunk.css.map": "/pg-wines-frontend/static/css/main.b5f16e8b.chunk.css.map",
-    "static/js/2.48494a89.chunk.js.LICENSE.txt": "/pg-wines-frontend/static/js/2.48494a89.chunk.js.LICENSE.txt",
+    "static/css/main.0ff1570e.chunk.css.map": "/pg-wines-frontend/static/css/main.0ff1570e.chunk.css.map",
+    "static/js/2.36c9b512.chunk.js.LICENSE.txt": "/pg-wines-frontend/static/js/2.36c9b512.chunk.js.LICENSE.txt",
     "static/media/ExpressIcon.915b8962.png": "/pg-wines-frontend/static/media/ExpressIcon.915b8962.png",
     "static/media/IconRedux.1edba70a.png": "/pg-wines-frontend/static/media/IconRedux.1edba70a.png",
     "static/media/NodeIcon.a7665815.png": "/pg-wines-frontend/static/media/NodeIcon.a7665815.png",
@@ -20,19 +20,16 @@
     "static/media/bars.936b0b9e.svg": "/pg-wines-frontend/static/media/bars.936b0b9e.svg",
     "static/media/cart-icon.9de8f681.svg": "/pg-wines-frontend/static/media/cart-icon.9de8f681.svg",
     "static/media/favorite-icon.369622b0.svg": "/pg-wines-frontend/static/media/favorite-icon.369622b0.svg",
+    "static/media/noFound.bb3fe82c.png": "/pg-wines-frontend/static/media/noFound.bb3fe82c.png",
+    "static/media/notfoundimage.c5dbf26b.png": "/pg-wines-frontend/static/media/notfoundimage.c5dbf26b.png",
     "static/media/search.a0b3bde7.svg": "/pg-wines-frontend/static/media/search.a0b3bde7.svg",
-    "static/media/slider_1.png": "/pg-wines-frontend/static/media/slider_1.55411bf3.png",
-    "static/media/slider_2.png": "/pg-wines-frontend/static/media/slider_2.c008294d.png",
-    "static/media/slider_3.png": "/pg-wines-frontend/static/media/slider_3.527e13ba.png",
-    "static/media/slider_4.png": "/pg-wines-frontend/static/media/slider_4.99164c2f.png",
-    "static/media/slider_5.png": "/pg-wines-frontend/static/media/slider_5.4519c9ea.png",
-    "static/media/slider_6.png": "/pg-wines-frontend/static/media/slider_6.8bb91686.png"
+    "static/media/spinnerLargeBkTransparent.85599bb6.svg": "/pg-wines-frontend/static/media/spinnerLargeBkTransparent.85599bb6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd21f6c4.js",
     "static/css/2.4ce9e501.chunk.css",
-    "static/js/2.48494a89.chunk.js",
-    "static/css/main.b5f16e8b.chunk.css",
-    "static/js/main.9d5ed210.chunk.js"
+    "static/js/2.36c9b512.chunk.js",
+    "static/css/main.0ff1570e.chunk.css",
+    "static/js/main.84a59993.chunk.js"
   ]
 }
