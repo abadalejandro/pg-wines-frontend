@@ -3,10 +3,21 @@ import axios from "axios"
 export function postProductCreated(payload) {
 
     return async function () {
-        console.log(payload)
 
-        const res = await axios.post("https://pg-delsur.herokuapp.com/products", payload)
+        const formData = new FormData();
+        formData.append("brandId", payload.brandId);
+        formData.append("capacity", payload.capacity);
+        formData.append("categoryId", payload.categoryId);
+        formData.append("cost", payload.cost);
+        formData.append("description", payload.description);
+        formData.append("discount", payload.discount);
+        formData.append("image", payload.image[0]);
+        formData.append("name", payload.name);
+        formData.append("packingId", payload.packingId);
+        formData.append("sales", payload.sales);
+        formData.append("stock", payload.stock);
 
+        const res = await axios.post("https://pg-delsur.herokuapp.com/products", formData);
 
         return res
     }
@@ -102,10 +113,10 @@ export function getPacking() {
 
 export function getAllProductsSlider() {
     return async function (dispatch) {
-        var json = await axios.get("https://pg-delsur.herokuapp.com/products?itemsPerPage=300");       
+        var json = await axios.get("https://pg-delsur.herokuapp.com/products?itemsPerPage=300");
         if (json.data?.products) {
             const products = json.data.products;
-           
+
             return dispatch({
                 type: "GET_ALL_PRODUCTS_SLIDER",
                 payload: products,
