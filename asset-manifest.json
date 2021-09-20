@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pg-wines-frontend/static/css/main.e704d6c9.chunk.css",
-    "main.js": "/pg-wines-frontend/static/js/main.bc7ace8e.chunk.js",
-    "main.js.map": "/pg-wines-frontend/static/js/main.bc7ace8e.chunk.js.map",
+    "main.css": "/pg-wines-frontend/static/css/main.66449d51.chunk.css",
+    "main.js": "/pg-wines-frontend/static/js/main.9a69a4b9.chunk.js",
+    "main.js.map": "/pg-wines-frontend/static/js/main.9a69a4b9.chunk.js.map",
     "runtime-main.js": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js",
     "runtime-main.js.map": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js.map",
     "static/css/2.4ce9e501.chunk.css": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.543d5492.chunk.js.map": "/pg-wines-frontend/static/js/2.543d5492.chunk.js.map",
     "index.html": "/pg-wines-frontend/index.html",
     "static/css/2.4ce9e501.chunk.css.map": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css.map",
-    "static/css/main.e704d6c9.chunk.css.map": "/pg-wines-frontend/static/css/main.e704d6c9.chunk.css.map",
+    "static/css/main.66449d51.chunk.css.map": "/pg-wines-frontend/static/css/main.66449d51.chunk.css.map",
     "static/js/2.543d5492.chunk.js.LICENSE.txt": "/pg-wines-frontend/static/js/2.543d5492.chunk.js.LICENSE.txt",
     "static/media/aboutXL.9dcdd77e.png": "/pg-wines-frontend/static/media/aboutXL.9dcdd77e.png",
     "static/media/bars.936b0b9e.svg": "/pg-wines-frontend/static/media/bars.936b0b9e.svg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.bd21f6c4.js",
     "static/css/2.4ce9e501.chunk.css",
     "static/js/2.543d5492.chunk.js",
-    "static/css/main.e704d6c9.chunk.css",
-    "static/js/main.bc7ace8e.chunk.js"
+    "static/css/main.66449d51.chunk.css",
+    "static/js/main.9a69a4b9.chunk.js"
   ]
 }
