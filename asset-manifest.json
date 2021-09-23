@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pg-wines-frontend/static/css/main.59489a95.chunk.css",
-    "main.js": "/pg-wines-frontend/static/js/main.9df1477b.chunk.js",
-    "main.js.map": "/pg-wines-frontend/static/js/main.9df1477b.chunk.js.map",
-    "runtime-main.js": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js",
-    "runtime-main.js.map": "/pg-wines-frontend/static/js/runtime-main.bd21f6c4.js.map",
-    "static/css/2.4ce9e501.chunk.css": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css",
-    "static/js/2.05250bb1.chunk.js": "/pg-wines-frontend/static/js/2.05250bb1.chunk.js",
-    "static/js/2.05250bb1.chunk.js.map": "/pg-wines-frontend/static/js/2.05250bb1.chunk.js.map",
+    "main.css": "/pg-wines-frontend/static/css/main.825a2439.chunk.css",
+    "main.js": "/pg-wines-frontend/static/js/main.f2ac3a7d.chunk.js",
+    "main.js.map": "/pg-wines-frontend/static/js/main.f2ac3a7d.chunk.js.map",
+    "runtime-main.js": "/pg-wines-frontend/static/js/runtime-main.74527403.js",
+    "runtime-main.js.map": "/pg-wines-frontend/static/js/runtime-main.74527403.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/pg-wines-frontend/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.73e367cf.chunk.js": "/pg-wines-frontend/static/js/2.73e367cf.chunk.js",
+    "static/js/2.73e367cf.chunk.js.map": "/pg-wines-frontend/static/js/2.73e367cf.chunk.js.map",
     "index.html": "/pg-wines-frontend/index.html",
-    "static/css/2.4ce9e501.chunk.css.map": "/pg-wines-frontend/static/css/2.4ce9e501.chunk.css.map",
-    "static/css/main.59489a95.chunk.css.map": "/pg-wines-frontend/static/css/main.59489a95.chunk.css.map",
-    "static/js/2.05250bb1.chunk.js.LICENSE.txt": "/pg-wines-frontend/static/js/2.05250bb1.chunk.js.LICENSE.txt",
+    "static/css/2.ed1298f3.chunk.css.map": "/pg-wines-frontend/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.825a2439.chunk.css.map": "/pg-wines-frontend/static/css/main.825a2439.chunk.css.map",
+    "static/js/2.73e367cf.chunk.js.LICENSE.txt": "/pg-wines-frontend/static/js/2.73e367cf.chunk.js.LICENSE.txt",
     "static/media/AlexMarin.4347cab6.jpeg": "/pg-wines-frontend/static/media/AlexMarin.4347cab6.jpeg",
     "static/media/ChristianQuevedo.6b174017.jpeg": "/pg-wines-frontend/static/media/ChristianQuevedo.6b174017.jpeg",
     "static/media/Valentin.ae3f5a18.jpg": "/pg-wines-frontend/static/media/Valentin.ae3f5a18.jpg",
@@ -23,13 +23,13 @@
     "static/media/notfoundimage.c5dbf26b.png": "/pg-wines-frontend/static/media/notfoundimage.c5dbf26b.png",
     "static/media/search.a0b3bde7.svg": "/pg-wines-frontend/static/media/search.a0b3bde7.svg",
     "static/media/slider_1.55411bf3.png": "/pg-wines-frontend/static/media/slider_1.55411bf3.png",
-    "static/media/spinnerLargeBkTransparent.950fc1a0.svg": "/pg-wines-frontend/static/media/spinnerLargeBkTransparent.950fc1a0.svg"
+    "static/media/spinnerLargeBkTransparent.85599bb6.svg": "/pg-wines-frontend/static/media/spinnerLargeBkTransparent.85599bb6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd21f6c4.js",
-    "static/css/2.4ce9e501.chunk.css",
-    "static/js/2.05250bb1.chunk.js",
-    "static/css/main.59489a95.chunk.css",
-    "static/js/main.9df1477b.chunk.js"
+    "static/js/runtime-main.74527403.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.73e367cf.chunk.js",
+    "static/css/main.825a2439.chunk.css",
+    "static/js/main.f2ac3a7d.chunk.js"
   ]
 }
