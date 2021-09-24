@@ -5,6 +5,7 @@ import styles from './OurTeam.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import AlexMarin from '../../Static/AlexMarin.jpeg';
 import ChristianQuevedo from '../../Static/ChristianQuevedo.jpeg';
+import Gaspar from '../../Static/Gaspar.jpeg'
 import Valentin from '../../Static/Valentin.jpg'
 
 import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
@@ -120,7 +121,7 @@ const OurTeam = () => {
                         </div>
                     </div>
                     <div className={styles.personaldiv}>
-                    <div className={styles.picpersonal} style={{ backgroundImage: "url(" + "https://media-exp1.licdn.com/dms/image/C4E03AQGaFI5UeyaOVA/profile-displayphoto-shrink_800_800/0/1536330517034?e=1637193600&v=beta&t=LGTXO3w45UIudcbRiTxOw6IVqQsJV60FdK8jWFJqw_0" + ")" }}></div>
+                    <div className={styles.picpersonal} style={{ backgroundImage: `url(${Gaspar})` }}></div>
                         <div className={styles.nameperson}>
                             <h2>Gaspar Almada</h2>
                             <h3>Full Stack Web Developer</h3>
